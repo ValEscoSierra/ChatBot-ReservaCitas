@@ -4,9 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "prestart": "npm run lint",
-    "lint": "npx eslint . --no-ignore",
-    "install-plugin": "npm install eslint-plugin-bot-whatsapp@latest --save-dev",
+    "prestart": "npx eslint . --no-ignore",
     "start": "node ./dist/app.js",
     "dev": "nodemon src/app.ts",
     "build": "npx rollup -c"
@@ -27,6 +25,7 @@
   "devDependencies": {
     "@rollup/plugin-terser": "^0.4.4",
     "eslint": "^8.57.0",
+    "eslint-plugin-bot-whatsapp": "^1.0.0",
     "eslint-plugin-builderbot": "1.0.6-alpha.0",
     "nodemon": "^3.1.0",
     "rollup": "^4.10.0",

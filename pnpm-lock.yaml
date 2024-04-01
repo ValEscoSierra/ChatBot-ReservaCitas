@@ -35,8 +35,11 @@ devDependencies:
     specifier: ^0.4.4
     version: 0.4.4(rollup@4.12.0)
   eslint:
-    specifier: ^8.52.0
+    specifier: ^8.57.0
     version: 8.57.0
+  eslint-plugin-bot-whatsapp:
+    specifier: ^1.0.0
+    version: 1.0.0
   eslint-plugin-builderbot:
     specifier: 1.0.6-alpha.0
     version: 1.0.6-alpha.0
@@ -1724,6 +1727,10 @@ packages:
   /escape-string-regexp@4.0.0:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
+    dev: true
+
+  /eslint-plugin-bot-whatsapp@1.0.0:
+    resolution: {integrity: sha512-qezzW9uUnD2iW7vMyX1RSaC9tcpym7CxT2ropi1hucd+Zlx/oVsYDBNM5BvgXiFZBs3NnZ538mbqbGRejMBIPw==}
     dev: true
 
   /eslint-plugin-builderbot@1.0.6-alpha.0:
