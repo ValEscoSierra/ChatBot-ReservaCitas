@@ -8,7 +8,7 @@ This TypeScript-based chatbot aims to streamline the process of booking and conf
 - **Appointment Confirmation**: Once a booking is made, the bot can confirm the appointment and send reminders as needed.
 - **Integration with Google Calendar**: Utilizes Google Calendar to manage and schedule appointments.
 - **Integration with OpenAI**: Utilizes OpenAI to provide contextual and helpful responses to user inquiries.
-- **Integration with Work.com**: Utilizes Work.com endpoints to connect POST and GET requests to URLs necessary for interacting with Google Calendar, Google Sheets, and the bot to provide accurate responses regarding appointment availability.
+- **Integration with make.com**: Utilizes make.com endpoints to connect POST and GET requests to URLs necessary for interacting with Google Calendar, Google Sheets, and the bot to provide accurate responses regarding appointment availability.
 
 ### 📕Requirements
 
@@ -31,11 +31,11 @@ pnpm run dev
 ```
 ### 🗒Documentación y links importantes:
 
-- **Plantillas de Make:** [Documentación](https://www.make.com/en)
-- **Chatpdf:** [Documentación](https://www.chatpdf.com/)
-- **API Chatpdf:** [Documentación](https://www.chatpdf.com/docs/api/backend)
+- **Plantillas de Make:** [Documentación Make](https://www.make.com/en)
+- **Chatpdf:** [Documentación Chatpdf](https://www.chatpdf.com/)
+- **API Chatpdf:** [Documentación API Chatpdf](https://www.chatpdf.com/docs/api/backend)
 - **Google Sheets:** [Documentación](https://docs.google.com/spreadsheets/d/1jOZ5YKEV3xTFjzGXB3YDwE2A59fOCYlKC_5J9Dpvpps/edit#gid=0)
-- **OpenAI API:** [Documentación](https://openai.com/blog/openai-api)
+- **OpenAI:** [Documentación OpenIA API](https://openai.com/blog/openai-api)
 
 
 
