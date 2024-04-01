@@ -29,13 +29,13 @@ pnpm install
 ```typescript
 pnpm run dev
 ```
-### 🗒Documentación y links importantes:
+### 🗒Documentation and important links:
 
-- **Plantillas de Make:** [Documentación Make](https://www.make.com/en)
-- **Chatpdf:** [Documentación Chatpdf](https://www.chatpdf.com/)
-- **API Chatpdf:** [Documentación API Chatpdf](https://www.chatpdf.com/docs/api/backend)
-- **Google Sheets:** [Documentación](https://docs.google.com/spreadsheets/d/1jOZ5YKEV3xTFjzGXB3YDwE2A59fOCYlKC_5J9Dpvpps/edit#gid=0)
-- **OpenAI:** [Documentación OpenIA API](https://openai.com/blog/openai-api)
+- **Plantillas de Make:** [Documentation Make](https://www.make.com/en)
+- **Chatpdf:** [Documentation Chatpdf](https://www.chatpdf.com/)
+- **API Chatpdf:** [Documentation API Chatpdf](https://www.chatpdf.com/docs/api/backend)
+- **Google Sheets:** [Documentation](https://docs.google.com/spreadsheets/d/1jOZ5YKEV3xTFjzGXB3YDwE2A59fOCYlKC_5J9Dpvpps/edit#gid=0)
+- **OpenAI:** [Documentation OpenIA API](https://openai.com/blog/openai-api)
 
 
 
